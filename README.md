@@ -1,21 +1,52 @@
-# 🌾 Malout Saathi - Kisan Da Saathi
-Punjab's first hyperlocal app for farmers of Malout - Live Mandi Bhav, Mausam Jankari, Kheti Tips & Sarkari Yojana in Punjabi, Hindi & English.
+# 🌾 Malout Saathi - Kisan Da Saathi | Gemini Hackathon
 
-**🚀 Live App (Latest & Updated):** https://ai.studio/apps/e62a23a5-27d2-4c93-b288-d8af793d7985
-**💻 GitHub:** https://github.com/tamannarajput9646-cyber/Malout-saathi-
+**Punjab ke Malout, Muktsar, Bathinda ke kisano ke liye banaya gaya ek All-in-One AI Saathi.**
 
-### 📝 Update Log - 1st Oct 2026 (Post-Submission Improvement)
-After submission (30th Sep), we tested with local Malout farmers. Based on feedback, we improved the app:
-- BEFORE: Header text was only in English
-- NOW: Full app including header "Live Mandi Rates..." supports 3 languages - Punjabi | Hindi | English
+> Kisano ko mandi ke chakkar, mausam ki tension aur sarkari yojnaon ki jaankari ke liye bhatkana na pade, isiliye maine ye app banayi hai.
 
-> Note for Judges: Hack2Skill video shows old version (submission closed). Please check Live App link for the latest improved version.
+### 🚀 ORIGINAL LINKS - Exact Copy Paste
 
-### ✨ Features
-- Daily Mandi Bhav (Malout & Nearby Mandis)
-- Mausam / Weather Forecast
-- Kheti-Badi Tips & Techniques
-- Sarkari Yojana Updates
-- AI Expert Salah
+**🌐 Live Web App:**
+https://malout-saathi-1070302155232.web.app
 
-Built with ❤️ for Malout ke Kisans by Tamanna Rajput | SIH 2025
+**🔗 App Link / Demo Video Link:**
+https://lnkd.in/d6FCxCSZ
+
+**💻 GitHub Code:**
+https://lnkd.in/dZx7Kw8D
+
+**💼 LinkedIn Post (Aapka Original Post):**
+https://lnkd.in/p/dQFuqK-t
+
+---
+
+### ✨ Key Features (Aapki Video Se)
+
+**1. 📈 Live Mandi Bhav - ਮੰਡੀ ਭਾਅ**
+- Malout Mandi: ਦਾਣਾ ਮੰਡੀ ਮਲੋਟ ਖੁੱਲ੍ਹੀ ਹੈ (Open)
+- Narma (ਕਪਾਹ): ₹7,280/quintal | MSP: ₹7,521 | Min: ₹6850 | Max: ₹7650 | Arrival: 1450 Qt | +₹110
+
+**2. 💰 Smart Payout Calculator**
+- Kaat ke baad exact paisa kitna milega, ek click me
+
+**3. 🌦️ Mausam + Neher Alert - ਮੌਸਮ (29°C)**
+- 7 Din ka forecast + Neher me paani kab aayega
+
+**4. 🔒 Khet Diary - ਖੇਤ ਡਾਇਰੀ (PIN Locked)**
+- Private hisaab, PIN se safe
+
+**5. 📚 Kisan Library - ਲਾਇਬ੍ਰੇਰੀ**
+- PAU Guides, Sarkari Yojnayein, MSP info Punjabi me
+
+**6. 🤖 Saathi AI - ਸਾਥੀ AI (Powered by Gemini 1.5 Flash)**
+- Leaf Disease Scanner: Patte ki photo se bimari + ilaaj
+- Voice Chat: Punjabi me bol ke pucho
+
+**7. 🌐 Language Support**
+- ਪੰਜਾਬੀ | हिंदी | Eng - As seen in video
+
+### 💻 Tech Stack
+Google AI Studio, Gemini 1.5 Flash, React.js, Firebase
+
+### 🏆 Built for JUGAAD Hackathon 2025
+#BuildWithAI #Gemini #Punjab #Kisan #MaloutSaathi
